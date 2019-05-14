@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohkofochi.bigmarketingwins.com/sitemap.xml
